@@ -7,3 +7,5 @@ sudo bash /tmp/yf.sh <&2
 else
 echo -e "\nНе удалось скачать лаунчер\n"
 fi
+
+rm -f /tmp/yf.sh
